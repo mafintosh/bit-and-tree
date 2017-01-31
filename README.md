@@ -1,6 +1,6 @@
 # bit-and-tree
 
-A tree on top of a bitfield that represent an BITWISE-AND structure.
+A tree on top of a bitfield that represent a BITWISE-AND structure.
 
 ```
 npm install bit-and-tree

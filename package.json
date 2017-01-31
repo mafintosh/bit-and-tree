@@ -1,7 +1,7 @@
 {
   "name": "bit-and-tree",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "A tree on top of a bitfield that represent a BITWISE-AND structure",
   "main": "index.js",
   "dependencies": {
     "flat-tree": "^1.4.0",
