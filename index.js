@@ -3,9 +3,9 @@ var flat = require('flat-tree')
 
 module.exports = AndTree
 
-function AndTree () {
-  if (!(this instanceof AndTree)) return new AndTree()
-  this.bitfield = bitfield()
+function AndTree (buf) {
+  if (!(this instanceof AndTree)) return new AndTree(buf)
+  this.bitfield = bitfield(buf)
 }
 
 AndTree.prototype.set = function (index, value) {
