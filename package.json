@@ -1,6 +1,6 @@
 {
   "name": "bit-and-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tree on top of a bitfield that represent a BITWISE-AND structure",
   "main": "index.js",
   "dependencies": {
